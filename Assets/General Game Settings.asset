@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bbd04e855fee3944aa247945a9e0aa0, type: 3}
+  m_Name: General Game Settings
+  m_EditorClassIdentifier: 
+  moreGamesLink: 
+  instagram_username: 
+  facebook_page_ID: 
+  gameId: 
+  InterstitialAdId: 
+  RewardedAdID: 
+  BannerAd_ID: 
+  showInterstitialAfter_n_lose: 0
+  test_Mode: 1
+  click_sound: {fileID: 8300000, guid: 8b46ae472f4c7e4419a02701ce4c09b6, type: 3}
+  IapId_removeAds: removeads
+  removeAds_price: $9.99
+  shopCarsList:
+  - carPrefab: {fileID: 6684121259934509610, guid: 177f14050fa581946bbcf36f4a086a54, type: 3}
+    carSprite_TO_ShowOnShop: {fileID: -2919953291515865066, guid: ee10dd17eda17b948a733c43eb2ababa, type: 3}
+    levelNumberToOpen: 0
+  - carPrefab: {fileID: 6684121259934509610, guid: 1c494363e1250454c89e54c80e492a67, type: 3}
+    carSprite_TO_ShowOnShop: {fileID: 8454148574648242970, guid: ee10dd17eda17b948a733c43eb2ababa, type: 3}
+    levelNumberToOpen: 0
+  - carPrefab: {fileID: 6684121259934509610, guid: 4198852ad0b12724d8eb86cd36e5e6a0, type: 3}
+    carSprite_TO_ShowOnShop: {fileID: -5076238006981583750, guid: ee10dd17eda17b948a733c43eb2ababa, type: 3}
+    levelNumberToOpen: 0
+  - carPrefab: {fileID: 6684121259934509610, guid: 3f0d3450d761dd841b3d032d97b27fbe, type: 3}
+    carSprite_TO_ShowOnShop: {fileID: 1898556863093857537, guid: ee10dd17eda17b948a733c43eb2ababa, type: 3}
+    levelNumberToOpen: 15
+  - carPrefab: {fileID: 6684121259934509610, guid: c9d5207056449d64cadf917259e762d6, type: 3}
+    carSprite_TO_ShowOnShop: {fileID: -847679345254077440, guid: ee10dd17eda17b948a733c43eb2ababa, type: 3}
+    levelNumberToOpen: 88
+  - carPrefab: {fileID: 6684121259934509610, guid: d03cfa3414a4977428bf784eb86d59a7, type: 3}
+    carSprite_TO_ShowOnShop: {fileID: 4760714978656135911, guid: ee10dd17eda17b948a733c43eb2ababa, type: 3}
+    levelNumberToOpen: 90
